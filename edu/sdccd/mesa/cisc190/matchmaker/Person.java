@@ -1,3 +1,5 @@
+package edu.sdccd.mesa.cisc190.matchmaker;
+
 public class Person
 {
     private Description description;

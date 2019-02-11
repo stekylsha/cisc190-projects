@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Description
+comment0.text=\n\ Write\ a\ description\ of\ class\ Description\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=height\ weight\ eyeColor\ gender\ year\ month\ day
+comment1.target=Description(float,\ float,\ EyeColor,\ Gender,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Description\n
+comment2.params=
+comment2.target=float\ getHeightMetric()
+comment3.params=
+comment3.target=float\ getHeightImperial()
+comment4.params=
+comment4.target=float\ getWeightMetric()
+comment5.params=
+comment5.target=float\ getWeightImperial()
+comment6.params=
+comment6.target=EyeColor\ getEyeColor()
+comment7.params=
+comment7.target=Gender\ getGender()
+comment8.params=
+comment8.target=java.util.Date\ getBirthDate()
+numComments=9

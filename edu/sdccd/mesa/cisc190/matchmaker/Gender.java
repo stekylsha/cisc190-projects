@@ -1,3 +1,4 @@
+package edu.sdccd.mesa.cisc190.matchmaker;
 
 /**
  * Enumeration class Gender - write a description of the enum class here
