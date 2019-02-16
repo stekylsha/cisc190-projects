@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ClothesTest
+comment0.text=\n\ The\ test\ class\ ClothesTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ClothesTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ ClothesTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ checkCold()
+comment4.params=
+comment4.target=void\ tearDown()
+comment4.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=5

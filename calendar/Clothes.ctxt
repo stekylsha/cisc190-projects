@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Clothes
+comment1.params=month
+comment1.target=java.lang.String\ dressMe(Month)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

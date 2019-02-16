@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Program1
+comment0.text=\n\ Accumulates\ even\ numbers.\n\n\ @author\ Steven\ K.\ Sharp\n\ @version\ 20190212\n
+comment1.params=intArray
+comment1.target=int\ accumulate(int[])
+comment1.text=\n\ Accumulate\ even\ numbers\ and\ return\ their\ sum.\n\n\ @param\ \ intArray\ \ An\ array\ of\ integers.\n\ @return\ The\ accumulation\ of\ the\ evens.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
