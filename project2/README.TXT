@@ -1,0 +1,6 @@
+PROJECT TITLE: Calendar
+PURPOSE OF PROJECT: Tell you how to dress, based on the month of the year (0-11).
+VERSION or DATE: 2019-02-14
+HOW TO START THIS PROJECT: TBD
+AUTHORS: CISC 190 class
+USER INSTRUCTIONS: TBD
