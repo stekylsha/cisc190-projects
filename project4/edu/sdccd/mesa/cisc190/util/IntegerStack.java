@@ -4,20 +4,22 @@ public class IntegerStack
 {
     // member variables go here
 
-    public Stack()
+    public IntegerStack()
     {
     }
 
-    public Stack(int capacity)
+    public IntegerStack(int capacity)
     {
     }
 
     public int peek()
     {
+        return 0;
     }
 
     public int pop()
     {
+        return 0;
     }
 
     public void push()
