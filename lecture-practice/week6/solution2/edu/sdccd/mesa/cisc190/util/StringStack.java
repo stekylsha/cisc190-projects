@@ -21,7 +21,7 @@ public class StringStack {
     /**
      * Constructor for objects of class Stack with a capacity.
      */
-    public StringStack(final int capacity) {
+    public StringStack(int capacity) {
         stack = new String[capacity];
     }
 
@@ -30,11 +30,11 @@ public class StringStack {
      *
      * @param value The value to push onto the stack.
      */
-    public void push(final String value) throws StackException {
+    public void push(String value) throws StackException {
         if (stackIndex < stack.length) {
             stack[stackIndex++] = value;
         } else {
-            throw new StackException("Stack overflow");
+            throw new StackOverflowException();
         }
     }
 
@@ -43,12 +43,12 @@ public class StringStack {
      *
      * @return The last value pushed onto the stack.
      */
-    public String pop() {
+    public String pop() throws StackException {
         String returnValue = null;
         if (stackIndex > 0) {
             returnValue = stack[--stackIndex];
         } else {
-            System.err.println("Nothing on the stack");
+            throw new StackUnderflowException();
         }
         return returnValue;
     }
@@ -61,7 +61,7 @@ public class StringStack {
      * @param n The number of values to remove from the stack.
      * @return The last n values pushed onto the stack.
      */
-    public String[] pop(int n) {
+    public String[] pop(int n) throws StackException {
         String[] returnValue = null;
         int start = 0;
         int end = 0;
@@ -84,19 +84,44 @@ public class StringStack {
      *
      * @return The last value pushed onto the stack.
      */
-    public String peek() {
+    public String peek() throws StackException {
         String returnValue = null;
         if (stackIndex > 0) {
             returnValue = stack[stackIndex-1];
         } else {
-            System.err.println("Nothing on the stack");
+            throw new StackUnderflowException();
         }
         return returnValue;
     }
-    
+
     public class StackException extends Exception {
-        private StackException(String message) {
+    
+        /**
+         * Constructor for objects of class StackException
+         */
+        public StackException(String message) {
             super(message);
         }
     }
+
+    private class StackOverflowException extends StackException {
+        private static final String OVERFLOW_MESSAGE = "Push requested on full stack";
+        /**
+         * Constructor for objects of class StackOverflowException
+         */
+        public StackOverflowException() {
+            super(OVERFLOW_MESSAGE);
+        }
+    }
+
+    private class StackUnderflowException extends StackException {
+        private static final String UNDERFLOW_MESSAGE = "Pop requested on empty stack";
+        /**
+         * Constructor for objects of class StackUnderflowException
+         */
+        public StackUnderflowException() {
+            super(UNDERFLOW_MESSAGE);
+        }
+    }
 }
+

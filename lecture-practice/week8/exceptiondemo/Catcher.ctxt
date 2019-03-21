@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=void\ testMethod(Thrower)
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ThrownException
+comment1.params=message
+comment1.target=ThrownException(java.lang.String)
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StringStack
+comment0.text=\n\ A\ stack\ implementation.\n\n\ @author\ Steven\ K.\ Sharp\n
+comment1.params=capacity
+comment1.target=StringStack(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Stack\ with\ a\ capacity.\n
+comment2.params=value
+comment2.target=void\ push(java.lang.String)
+comment2.text=\n\ Push\ the\ parameter\ onto\ the\ stack.\n\n\ @param\ value\ The\ value\ to\ push\ onto\ the\ stack.\n
+comment3.params=
+comment3.target=java.lang.String\ pop()
+comment3.text=\n\ Remove\ the\ last\ value\ on\ the\ stack\ and\ return\ it.\n\n\ @return\ The\ last\ value\ pushed\ onto\ the\ stack.\n
+comment4.params=n
+comment4.target=java.lang.String[]\ pop(int)
+comment4.text=\n\ Extra\ Credit\n\ Remove\ the\ last\ n\ values\ on\ the\ stack\ and\ return\n\ them\ as\ an\ array.\ \ If\ the\ requested\ size\ is\ larger\n\ than\ our\ array\ size,\ throw\ an\ exception.\n\n\ @param\ n\ The\ number\ of\ values\ to\ remove\ from\ the\ stack.\n\ @return\ The\ last\ n\ values\ pushed\ onto\ the\ stack.\n
+comment5.params=
+comment5.target=java.lang.String\ peek()
+comment5.text=\n\ Return\ the\ last\ value\ on\ the\ stack\ without\ removing\ it.\n\n\ @return\ The\ last\ value\ pushed\ onto\ the\ stack.\n
+numComments=6

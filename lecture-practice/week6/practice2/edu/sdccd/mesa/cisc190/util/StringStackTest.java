@@ -48,7 +48,7 @@ public class StringStackTest {
         assertEquals(TEST_VALUES[0], popped);
     }
 
-    @Test
+    @Test(expected=StringStack.StackException.class)
     public void testPushOverLength() throws StringStack.StackException {
         // push one more than we should
         fillStack(TEST_VALUES.length);
@@ -56,13 +56,13 @@ public class StringStackTest {
         assertEquals(TEST_VALUES[TEST_VALUES.length - 2], popped);
     }
 
-    @Test
+    @Test(expected=StringStack.StackException.class)
     public void testPopEmpty() throws StringStack.StackException {
         String popped = stack.pop();
         assertEquals(null, popped);
     }
 
-    @Test
+    @Test(expected=StringStack.StackException.class)
     public void testPopOverPush() throws StringStack.StackException {
         fillStack(2);
         String popped = null;
@@ -124,7 +124,7 @@ public class StringStackTest {
      * @param stack The stack to fill.
      * @param count The number of things to put in the stack.
      */
-    private void fillStack(int count) throws StringStack.StackException{
+    private void fillStack(int count) throws StringStack.StackException {
         for (int i = 0 ; i < count ; i++) {
             this.stack.push(TEST_VALUES[i % TEST_VALUES.length]);
         }

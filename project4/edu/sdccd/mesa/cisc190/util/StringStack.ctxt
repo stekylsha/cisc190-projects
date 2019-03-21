@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StringStack
+comment1.params=
+comment1.target=StringStack()
+comment2.params=initialCapacity
+comment2.target=StringStack(int)
+comment3.params=
+comment3.target=java.lang.String\ peek()
+comment3.text=\n\ Look\ at\ the\ top\ value\ in\ the\ stack,\ without\ removing\ it.\n\ @return\ The\ value\ at\ the\ top.\n
+comment4.params=
+comment4.target=java.lang.String\ pop()
+comment4.text=\n\ Pop\ a\ value\ from\ the\ stack.\n\ @return\ The\ value\ removed.\n
+comment5.params=value
+comment5.target=void\ push(java.lang.String)
+comment5.text=\n\ Push\ a\ value\ into\ the\ stack.\n\ @param\ value\ The\ value\ to\ push.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
