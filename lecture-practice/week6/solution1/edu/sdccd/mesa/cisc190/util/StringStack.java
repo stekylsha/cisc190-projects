@@ -30,11 +30,11 @@ public class StringStack {
      *
      * @param value The value to push onto the stack.
      */
-    public void push(final String value) throws StackException {
+    public void push(final String value) {
         if (stackIndex < stack.length) {
             stack[stackIndex++] = value;
         } else {
-            throw new StackException("Stack overflow");
+            System.err.println("No room on the stack");
         }
     }
 
@@ -92,11 +92,5 @@ public class StringStack {
             System.err.println("Nothing on the stack");
         }
         return returnValue;
-    }
-    
-    public class StackException extends Exception {
-        private StackException(String message) {
-            super(message);
-        }
     }
 }
