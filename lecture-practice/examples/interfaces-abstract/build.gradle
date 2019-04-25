@@ -1,0 +1,18 @@
+plugins {
+    id 'application'
+}
+
+group 'edu.sdccd.mesa'
+version '1.0-SNAPSHOT'
+
+application.mainClassName = "Main"
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

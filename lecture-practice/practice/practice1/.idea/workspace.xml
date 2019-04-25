@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e01035b-1215-4aa2-abbc-d80b7ccc4c7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/Catcher.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/Thrower.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/ThrownException.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/package.bluej" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throws StringStack.StackException</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="23" />
+    <option name="width" value="1619" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'practice1'">
+    <configuration name="StringStackTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;edu.sdccd.mesa.cisc190.util.StringStackTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'practice1'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'practice1'" />
+        <item itemvalue="Gradle.StringStackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e01035b-1215-4aa2-abbc-d80b7ccc4c7d" name="Default Changelist" comment="" />
+      <created>1555562682541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555562682541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'practice1' - 2019.04.17 at 22h 49m 49s.xml">
+      <configuration name="Tests in 'practice1'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="StringStackTest - 2019.04.17 at 22h 50m 49s.xml">
+      <configuration name="StringStackTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'practice1' - 2019.04.17 at 22h 59m 42s.xml">
+      <configuration name="Tests in 'practice1'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'practice1' - 2019.04.17 at 23h 04m 25s.xml">
+      <configuration name="Tests in 'practice1'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'practice1' - 2019.04.17 at 23h 33m 35s.xml">
+      <configuration name="Tests in 'practice1'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="StringStackTest - 2019.04.18 at 19h 41m 39s.xml">
+      <configuration name="StringStackTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'practice1' - 2019.04.18 at 19h 48m 05s.xml">
+      <configuration name="Tests in 'practice1'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="23" width="1619" height="987" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.230818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

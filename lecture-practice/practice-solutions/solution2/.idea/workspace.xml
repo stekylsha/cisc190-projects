@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f12252f-9bf2-49b3-afb8-3605c1168f0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStackTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/cisc190/util/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/mesa/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/sdccd/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/Catcher.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/Thrower.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/ThrownException.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week8/exceptiondemo/package.bluej" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-299">
+              <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solution2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in solution2">
+    <configuration name="All in solution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in solution2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in solution2" />
+        <item itemvalue="JUnit.All in solution2.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f12252f-9bf2-49b3-afb8-3605c1168f0e" name="Default Changelist" comment="" />
+      <created>1555622541679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555622541679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringStackTest - 2019.04.18 at 16h 29m 19s.xml">
+      <configuration name="StringStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringStackTest - 2019.04.18 at 19h 36m 01s.xml">
+      <configuration name="StringStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_solution2_test - 2019.04.19 at 00h 48m 31s.xml">
+      <configuration name="All in solution2.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="987" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.37988827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073636" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.4992636" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.4.2/a9df56f0d77553e469fbcc0b5cb2e3b01d3b24fe/junit-jupiter-api-5.4.2-sources.jar!/org/junit/jupiter/api/function/Executable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.4.2/a9df56f0d77553e469fbcc0b5cb2e3b01d3b24fe/junit-jupiter-api-5.4.2-sources.jar!/org/junit/jupiter/api/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="2918" column="82" lean-forward="true" selection-start-line="2918" selection-start-column="78" selection-end-line="2918" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>solution2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
