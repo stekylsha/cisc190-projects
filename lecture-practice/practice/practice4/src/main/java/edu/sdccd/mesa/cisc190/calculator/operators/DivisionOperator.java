@@ -4,7 +4,7 @@ import edu.sdccd.mesa.cisc190.calculator.Operator;
 
 public class DivisionOperator implements Operator
 {
-    public int operate(int x, int y) {
+    public Number operate(Number x, Number y) {
         throw new UnsupportedOperationException();
     }
 }

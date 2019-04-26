@@ -1,6 +1,10 @@
 import java.awt.Color;
 
 public class Triangle extends Shape {
+    public Triangle() {
+        super(Color.YELLOW);
+    }
+
     public Triangle(Color color) {
         super(color);
     }

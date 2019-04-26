@@ -1,6 +1,11 @@
 import java.awt.Color;
 
 public class Rectangle extends Shape {
+
+    public Rectangle() {
+        super(Color.MAGENTA);
+    }
+
     public Rectangle(Color color) {
         super(color);
     }

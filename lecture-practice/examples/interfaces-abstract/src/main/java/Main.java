@@ -7,11 +7,11 @@ public class Main {
         things[i++] = new Rectangle(Color.RED);
         things[i++] = new Triangle(Color.BLUE);
         things[i++] = new Rectangle(Color.RED);
-        things[i++] = new Triangle(Color.BLUE);
+        things[i++] = new Triangle();
         things[i++] = new Triangle(Color.BLUE);
         things[i++] = new Rectangle(Color.RED);
         things[i++] = new Rectangle(Color.CYAN);
-        things[i++] = new Rectangle(Color.RED);
+        things[i++] = new Rectangle();
         things[i++] = new Triangle(Color.BLUE);
         things[i++] = new Triangle(Color.BLUE);
         for (Drawable d : things) {

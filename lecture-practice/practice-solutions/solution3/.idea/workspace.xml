@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d18053-6b0b-45d3-91d9-8be8d92c07a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/util/StackUnderflowException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/interfaces-abstract/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/interfaces-abstract/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/interfaces-abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/interfaces-abstract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/interfaces-abstract/src/main/java/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/AdditionOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/AdditionOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/DivisionOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/DivisionOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/MultiplicationOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/MultiplicationOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/SubtractionOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/calculator/operators/SubtractionOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution4/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -23,7 +38,17 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -51,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,37 +109,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="solution3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solution3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="solution3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solution3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solution3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solution3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,7 +215,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="987" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26514214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -251,17 +256,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/util/StringStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
           <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/util/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
