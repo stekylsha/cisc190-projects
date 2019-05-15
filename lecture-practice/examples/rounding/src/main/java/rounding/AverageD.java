@@ -7,7 +7,8 @@ public class AverageD implements Averager {
         for (numsIndex = 0; numsIndex < nums.length; numsIndex++) {
             result = result + nums[numsIndex];
         }
-        System.out.println("Total is " + result);
-        System.out.println("Average is " + (result / nums.length));
+        System.out.println("Using doubles:");
+        System.out.format("Total is %4.12f%n", result);
+        System.out.format("Average is %4.12f%n", (result / nums.length));
     }
 }

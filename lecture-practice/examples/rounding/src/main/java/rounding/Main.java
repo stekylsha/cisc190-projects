@@ -5,6 +5,7 @@ package rounding;
 
 public class Main {
     private static enum AverageTypes {
+        Float(new AverageF()),
         BigDecimal(new AverageBD()),
         Double(new AverageD());
 
@@ -17,14 +18,25 @@ public class Main {
         public void average(double[] nums) {
             avg.average(nums);
         }
-    };
+    }
 
     private static double[] nums = {
-        10.1,
-        11.2,
-        12.3,
-        13.4,
-        14.5
+            10.1,
+            11.2,
+            12.3,
+            13.4,
+            14.5,
+            15.6,
+            16.7,
+            17.8,
+            18.9,
+            19.2,
+            20.21,
+            21.22,
+            22.23,
+            23.24,
+            24.25,
+            25.26
     };
 
     public static void main(String[] args) {

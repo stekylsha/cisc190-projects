@@ -9,7 +9,8 @@ public class AverageBD implements Averager {
         for (numsIndex = 0; numsIndex < nums.length; numsIndex++) {
             result = result.add(new BigDecimal(nums[numsIndex]));
         }
-        System.out.println("Total is " + result);
-        System.out.println("Average is " + (result.divide(new BigDecimal(nums.length))));
+        System.out.println("Using BigDecimal:");
+        System.out.format("Total is %s%n", result.toPlainString());
+        System.out.format("Average is %s%n", (result.divide(new BigDecimal(nums.length)).toPlainString()));
     }
 }

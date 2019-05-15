@@ -1,7 +1,7 @@
 package edu.sdccd.mesa.cisc190.superstack;
 
 import java.util.List;
-import java.util.Stack;
+import edu.sdccd.mesa.cisc190.superstack.SuperStack;
 
 public class Main {
     public static void main(String[] args) {
