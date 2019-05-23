@@ -1,0 +1,13 @@
+[
+    { "name":  "Antione",   "id": "C6FF5516CAB9", "good": true,  "grade": "A", "gpa": 3.44 },
+    { "name":  "Nick",      "id": "DDD684C4C0C7", "good": true,  "grade": "B", "gpa": 2.20 },
+    { "name":  "Kieth",     "id": "E47FFC205609", "good": false, "grade": "C", "gpa": 2.88 },
+    { "name":  "Ian",       "id": "F61411599FE9", "good": false, "grade": "B", "gpa": 2.04 },
+    { "name":  "Cole",      "id": "FA27B1A51E85", "good": true,  "grade": "A", "gpa": 1.84 },
+    { "name":  "Victoria",  "id": "EAA37ECFFF31", "good": true,  "grade": "B", "gpa": 2.24 },
+    { "name":  "Helin",     "id": "C4C868D2E7AB", "good": false, "grade": "C", "gpa": 3.20 },
+    { "name":  "Chewie",    "id": "D0EF20F3E94F", "good": true,  "grade": "B", "gpa": 3.36 },
+    { "name":  "Matt C.",   "id": "C1FFF431A1A5", "good": false, "grade": "A", "gpa": 3.00 },
+    { "name":  "Matt O.",   "id": "E458C524862D", "good": true,  "grade": "B", "gpa": 3.16 },
+    { "name":  "Shahyan",   "id": "F047D1DA23F9", "good": false, "grade": "C", "gpa": 2.84 }
+]
