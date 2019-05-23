@@ -9,8 +9,8 @@ public class StackException extends Exception {
         super(message);
     }
 
-    /*package*/ static class StackUnderflowException extends StackException {
-        private static final String UNDERFLOW_MESSAGE = "Pop or peek requested on empty stack";
+    public static class StackUnderflowException extends StackException {
+        private static final String UNDERFLOW_MESSAGE = "Pop requested on empty stack";
         /**
          * Constructor for objects of class StackUnderflowException
          */

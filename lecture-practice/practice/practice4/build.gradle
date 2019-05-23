@@ -14,10 +14,18 @@ application {
 repositories {
     jcenter()
     mavenCentral()
+    mavenLocal()
 }
 
 dependencies {
+    implementation 'edu.sdccd.mesa:superstack:1.0.0-SNAPSHOT'
+    implementation 'edu.sdccd.mesa:p3-stack:1.0.0-SNAPSHOT'
+    implementation 'org.slf4j:slf4j-api:1.7.25'
+
+    runtimeOnly 'org.slf4j:slf4j-simple:1.7.25'
+
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.4.2'
+
     testRuntime 'org.junit.jupiter:junit-jupiter-engine:5.4.2'
 }
 

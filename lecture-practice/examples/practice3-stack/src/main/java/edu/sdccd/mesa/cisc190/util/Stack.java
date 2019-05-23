@@ -3,16 +3,21 @@ package edu.sdccd.mesa.cisc190.util;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * A stack implementation.
  *
  * @author Steven K. Sharp
  */
-public class Stack<Type> {
+public class Stack<T> {
+    private static final Logger LOG = LoggerFactory.getLogger(Stack.class);
+
     /**
      * The stack.
      */
-    private List<Type> stack;
+    private List<T> stack;
 
     /**
      * Constructor for objects of class Stack with a capacity.
@@ -26,7 +31,8 @@ public class Stack<Type> {
      *
      * @param value The value to push onto the stack.
      */
-    public void push(Type value) throws StackException {
+    public void push(T value) {
+        LOG.trace("Pushing value '{}' to {}", value, stack.size());
         stack.add(value);
     }
 
@@ -35,15 +41,15 @@ public class Stack<Type> {
      *
      * @return The last value pushed onto the stack.
      */
-    public Type pop() throws StackException {
-        Type returnValue = stack.remove(stack.size() - 1);
-        /*
-        if (stackIndex > 0) {
-            returnValue = stack[--stackIndex];
+    public T pop() throws StackException {
+        T returnValue;
+        LOG.trace("Stack size is {}", stack.size());
+        if (stack.size() > 0) {
+            returnValue = stack.remove(stack.size() - 1);
+            LOG.trace("Popped value '{}' from {}", returnValue, stack.size());
         } else {
-            throw new StackUnderflowException();
+            throw new StackException.StackUnderflowException();
         }
-        */
         return returnValue;
     }
 
@@ -55,22 +61,8 @@ public class Stack<Type> {
      * @param n The number of values to remove from the stack.
      * @return The last n values pushed onto the stack.
      */
-    public Type[] pop(int n) throws StackException {
-        Type[] returnValue = null;
-        /*
-        int start = 0;
-        int end = 0;
-        if (n <= stackIndex) {
-            end = stackIndex;
-            start = stackIndex - n;
-            stackIndex = start;
-        } else {
-            throw new StackUnderflowException();
-        }
-        returnValue = Arrays.copyOfRange(stack, start, end);
-        Arrays.fill(stack, start, end, null);
-        */
-        return returnValue;
+    public T[] pop(int n) throws StackException {
+        throw new UnsupportedOperationException();
     }
 
     /**
@@ -78,15 +70,13 @@ public class Stack<Type> {
      *
      * @return The last value pushed onto the stack.
      */
-    public Type peek() throws StackException {
-        Type returnValue = stack.get(stack.size() - 1);
-        /*
-        if (stackIndex > 0) {
-            returnValue = stack[stackIndex-1];
+    public T peek() throws StackException {
+        T returnValue;
+        if (stack.size() > 0) {
+            returnValue = stack.get(stack.size() - 1);
         } else {
-            throw new StackUnderflowException();
+            throw new StackException.StackUnderflowException();
         }
-        */
         return returnValue;
     }
 
