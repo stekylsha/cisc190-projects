@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b4c8543-b2f9-4271-93c4-e70f9811aa3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/src/main/java/edu/sdccd/mesa/cisc190/practice5/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5a-client/src/main/resources/simplelogger.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice5b/src/test/java/edu/sdccd/mesa/cisc190/practice5/server/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../examples/practice3-stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/practice3-stack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../examples/rounding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/rounding/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice-solutions/solution2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice-solutions/solution2/.idea/workspace.xml" afterDir="false" />
@@ -29,20 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../../practice-solutions/solution4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice-solutions/solution4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice4/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/final.json" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/resources/final.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice5b/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice5b/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/client/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice5b/src/main/resources/simplelogger.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/resources/simplelogger.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice5b/src/test/java/edu/sdccd/mesa/cisc190/practice5/server/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5a-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5a-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -102,7 +70,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="53" />
     <option name="width" value="1680" />
     <option name="height" value="987" />
   </component>
@@ -205,6 +173,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="987" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
