@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b4c8543-b2f9-4271-93c4-e70f9811aa3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examples/homework-stack/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../examples/homework-stack/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/src/main/java/edu/sdccd/mesa/cisc190/practice5/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5a-client/src/main/resources/simplelogger.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5b/src/test/java/edu/sdccd/mesa/cisc190/practice5/server/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../examples/practice3-stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/practice3-stack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../examples/rounding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../examples/rounding/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practice-solutions/solution2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice-solutions/solution2/.idea/workspace.xml" afterDir="false" />
@@ -12,6 +29,20 @@
       <change beforePath="$PROJECT_DIR$/../../practice-solutions/solution4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practice-solutions/solution4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice4/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/final.json" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/resources/final.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/src/main/java/edu/sdccd/mesa/cisc190/practice5/client/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/src/main/resources/simplelogger.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../practice5b/src/main/resources/simplelogger.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice5b/src/test/java/edu/sdccd/mesa/cisc190/practice5/server/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,31 +64,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1128#1129#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,22 +91,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/edu/sdccd/mesa/cisc190/practice5/server/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/simplelogger.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/final.json" />
         <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/StudentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -114,29 +117,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -144,19 +147,11 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice5a-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice5-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice5a" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="practice5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,6 +162,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/edu/sdccd/mesa/cisc190/practice5" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -209,12 +205,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="987" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -265,13 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/simplelogger.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -292,16 +280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/final.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -311,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="242">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
           <folding>
             <element signature="e#504#505#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
@@ -334,6 +312,33 @@
             <element signature="e#1091#1092#0" expanded="true" />
             <element signature="e#1128#1129#0" expanded="true" />
             <element signature="e#1158#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/sdccd/mesa/cisc190/practice5/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,7 +10,7 @@ sourceCompatibility = 11
 
 // Define the main class for the application
 application {
-    mainClassName = 'edu.sdccd.mesa.cisc190.practice5.server.Main'
+    mainClassName = 'edu.sdccd.mesa.cisc190.practice5.client.Main'
 }
 
 repositories {
@@ -20,15 +20,11 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.fasterxml.jackson.jr:jackson-jr-objects:2.9.9'
-    implementation 'io.javalin:javalin:2.8.0'
     implementation 'org.slf4j:slf4j-api:1.7.26'
 
-    runtimeOnly 'com.fasterxml.jackson.core:jackson-databind:2.9.9'
     runtimeOnly 'org.slf4j:slf4j-simple:1.7.26'
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.4.2'
-
     testRuntime 'org.junit.jupiter:junit-jupiter-engine:5.4.2'
 }
 
